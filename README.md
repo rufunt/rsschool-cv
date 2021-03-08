@@ -1,1 +1,1 @@
-https://rufunt.github.io/rsschool-cv
+https://rufunt.github.io/rsschool-cv/
